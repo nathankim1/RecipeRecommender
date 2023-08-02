@@ -2,8 +2,8 @@ body {
     width: 100%;
     height: 100%;
     margin: 0 0 4em 0;
-    background-color: #D2FFCF;
-    color: #0c2b16;
+    background-color: #1b1b32;
+    color: #f5f6f7;
     font-family: Tahoma, serif;
     font-size: 16px;
     text-align: center;
@@ -31,8 +31,8 @@ fieldset {
 }
 
 input, textarea {
-    background-color: #0c2b16;
-    border: 1px solid #0c2b16;
+    background-color: #0a0a23;
+    border: 1px solid #0a0a23;
     color: #ffffff;
 }
 
@@ -41,7 +41,7 @@ input, textarea {
     margin: 1em auto;
     height: 2em;
     font-size: 1.1rem;
-    background-color: #0c2b16;
+    background-color: #0a0a23;
     color: #ffffff;
 }
 
@@ -50,6 +50,6 @@ input, textarea {
     margin: 4em auto;
     height: 2em;
     font-size: 1.1rem;
-    background-color: #0c2b16;
+    background-color: #0a0a23;
     color: #ffffff;
 }
